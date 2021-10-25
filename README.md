@@ -1,7 +1,7 @@
 ### Hola! Soy matias!
 ![GitHub Banner](./images/yo.jpg)
 
-Hola! Soy desarrollador full stack developer tengo 32 años y estoy preparado para aplicar todos mis conocimientos para trabajar y aportar todo el valor posible. Mi idea es apoyar con nuevas ideas, motivar al grupo de trabajo, ser constante y persever para cumplir con todas las tareas asignadas.
+Hola! Soy desarrollador full stack developer, tengo 32 años y estoy preparado para aplicar todos mis conocimientos para trabajar y aportar todo el valor posible. Mi idea es apoyar con nuevas ideas, motivar al grupo de trabajo, ser constante y persever para cumplir con todas las tareas asignadas.
 
 Mi objetivo principal es aplicar todas mis herramientas para desarrollar mis habilidades, crecer como profesional en la medida que aporto valor al equipo.
 
