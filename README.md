@@ -14,6 +14,7 @@ Puedes echar un vistazo a mis proyectos anteriores y explorar mi código en GitH
 <br>
 <h2>TECNOLOGIAS A MI ALCANCE:</h2>
 </br>
+<div  style="display:flex">    
 <p>
     <code>
         <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript Logo" height="50">
@@ -29,6 +30,7 @@ Puedes echar un vistazo a mis proyectos anteriores y explorar mi código en GitH
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript Logo" height="50">
     </code>
 </p>
+</div>
 <h2>ALGUNOS TRABAJOS:</h2>
 <h4>Proyecto grupal:<a href="https://holidayswapp.vercel.app/"> HolidaySwapp</a></h4>
 <p>
