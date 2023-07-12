@@ -10,7 +10,6 @@ En mi trabajo, destaco por mi capacidad para trabajar en equipo de manera colabo
 Si estás buscando un desarrollador Full Stack apasionado y comprometido para tu proyecto, ¡no dudes en contactarme! Estoy emocionado de contribuir con mis habilidades y experiencia para alcanzar el éxito conjunto.
 
 Puedes echar un vistazo a mis proyectos anteriores y explorar mi código en GitHub. ¡Conéctate conmigo y exploremos cómo podemos colaborar juntos en emocionantes proyectos de desarrollo web! 🚀
-
 <hr/>
 <br>
 <h2>TECNOLOGIAS A MI ALCANCE:</h2>
@@ -30,25 +29,18 @@ Puedes echar un vistazo a mis proyectos anteriores y explorar mi código en GitH
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript Logo" height="50">
     </code>
 </p>
-
 <h2>ALGUNOS TRABAJOS:</h2>
 <h4>Proyecto grupal:<a href="https://holidayswapp.vercel.app/"> HolidaySwapp</a></h4>
-
 <p>
   <a><img src="./images/1.jpeg" alt="Home" height="50%" width="45%"></a>
   <br/>
   <a><img src="./images/2.jpeg" alt="Search" height="50%" width="45%"></a>
 </p>
-
 <h4>Proyecto individual:</h4>
-
   <a><img src="./images/3.jpeg" alt="Detail" height="50%" width="45%"></a>
   <br/>
   <a><img src="./images/4.jpeg" alt="FormCreate" height="50%" width="45%"></a>
-
-
 <br/>
-
 <h2>📫 Contactame</h2>
 <a href="https://github.com/Mati69lbt/">GITHUB</a>
 <br/>
