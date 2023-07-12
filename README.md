@@ -1,17 +1,19 @@
 ### Hola! Soy matias!
 ![GitHub Banner](./images/yo.jpg)
 
-Hola! Soy desarrollador full stack developer, tengo 32 años y estoy preparado para aplicar todos mis conocimientos para trabajar y aportar todo el valor posible. Mi idea es apoyar con nuevas ideas, motivar al grupo de trabajo, ser constante y persever para cumplir con todas las tareas asignadas.
+Mi enfoque resolutivo y mi atención al detalle garantizan la calidad en cada proyecto en el que trabajo. Con experiencia en el uso de metodologías ágiles como Scrum, soy capaz de enfrentar desafíos complejos y encontrar soluciones efectivas.
 
-Mi objetivo principal es aplicar todas mis herramientas para desarrollar mis habilidades, crecer como profesional en la medida que aporto valor al equipo.
+Me encanta mantenerme actualizado en las últimas tecnologías y tendencias en el desarrollo web, y estoy constantemente aprendiendo y mejorando mis habilidades a través de cursos en línea y proyectos personales.
 
-Siempre entusiasta de aprender nuevas tecnologías, enfocado y disciplinado en mis proyectos.
+En mi trabajo, destaco por mi capacidad para trabajar en equipo de manera colaborativa, mi comunicación efectiva y mi enfoque orientado al cliente. Siempre busco la satisfacción del usuario final, y considero que la retroalimentación constructiva es una oportunidad para crecer y mejorar.
 
-Me gusta mucho trabajar en equipo tejiendo redes profesionales y retroalimentándome de experiencias novedosas y tecnologías vanguardistas.
+Si estás buscando un desarrollador Full Stack apasionado y comprometido para tu proyecto, ¡no dudes en contactarme! Estoy emocionado de contribuir con mis habilidades y experiencia para alcanzar el éxito conjunto.
+
+Puedes echar un vistazo a mis proyectos anteriores y explorar mi código en GitHub. ¡Conéctate conmigo y exploremos cómo podemos colaborar juntos en emocionantes proyectos de desarrollo web! 🚀
 
 <hr/>
 <br>
-<h2>TECNOGOLIAS A MI ALCANCE:</h2>
+<h2>TECNOLOGIAS A MI ALCANCE:</h2>
 </br>
 <p>
     <code>
@@ -31,7 +33,6 @@ Me gusta mucho trabajar en equipo tejiendo redes profesionales y retroalimentán
 
 <h2>ALGUNOS TRABAJOS:</h2>
 <h4>Proyecto grupal:<a href="https://holidayswapp.vercel.app/"> HolidaySwapp</a></h4>
-
 
 <p>
   <a><img src="./images/1.jpeg" alt="Home" height="50%" width="45%"></a>
@@ -54,6 +55,8 @@ Me gusta mucho trabajar en equipo tejiendo redes profesionales y retroalimentán
 <a href="mati69_lbt@hotmail.com"> HOTMAIL</a>
 <br/>
 <a href="https://www.linkedin.com/in/matiasdelgadodev/">LINKEDIN</a>
+<br/>
+<a href="https://matiasdelgado.onrender.com/">PORTFOLIO</a>
 
 
 
